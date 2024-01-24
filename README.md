@@ -12,14 +12,9 @@ A completely Responsive Instagram App- Works on Android, iOS & Web!
 - Follow Users
 - Display User Posts, Followers & Following
 - EVERYTHING REAL TIME
-- Sign Out
+  
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/BBccK1zTgxw) 
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/instagram-flutter-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
 
 
 ## Installation
